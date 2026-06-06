@@ -1,2 +1,1 @@
-# bread-calculators-bg
-Calculators for kneading bread and other types of dough
+# Redirection to: nstratiev.github.io/bread-calculator-bg/
